@@ -1,0 +1,9 @@
+bigml
+kaggle
+matplotlib
+jupyter_contrib_nbextensions
+rise
+nbdiff
+pandas-profiling
+papermill
+autopep8
